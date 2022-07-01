@@ -1,0 +1,40 @@
+h1 {
+    font-weight: bold;
+    color:aquamarine;
+    background-color: pink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.las {
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    background-color:black;
+}
+
+.kb {
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+    background-color:blueviolet;
+}
+
+.macka {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background-color: yellow;
+}
+
+div {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div .waiver-text {
+    background-color:brown;
+    font-stretch: expanded;
+}
+
+.waiver-text {
+    font-size: 10px;
+    color: darkslategray;
+}
+
